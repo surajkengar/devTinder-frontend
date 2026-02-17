@@ -1,4 +1,50 @@
-# DevTinder
+# 🚀 DevTinder
+
+DevTinder is a full-stack web application inspired by modern networking platforms, where users can connect, send requests, and build professional relationships.
+
+Built using the IMERN stack (MongoDB, Express, React, Node.js), the application includes secure authentication, protected routes, and real-time connection logic.
+
+---
+
+## 🧠 Overview
+
+DevTinder allows users to:
+
+- Register and login securely
+- Create and manage profiles
+- Send connection requests
+- Accept or reject requests
+- View connections
+- Maintain a personalized dashboard
+
+This project demonstrates real-world backend architecture, authentication systems, and full-stack integration.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React.js
+- Axios
+- CSS
+
+### Backend
+- Node.js
+- Express.js
+- JWT (Authentication)
+- Bcrypt (Password Hashing)
+- Cookie Parser
+- CORS
+
+### Database
+- MongoDB (Atlas)
+
+### Deployment
+- Frontend: Vercel / Netlify
+- Backend: Render / Railway
+- Database: MongoDB Atlas
+
+---
 
 - Create a Vite + React application
 - Remove unecessary code and create a Hello World app
